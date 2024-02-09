@@ -1,0 +1,35 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+  }
+  header{
+    background-color:beige;
+  }
+  
+  nav{
+    background-color:beige;
+  }
+  
+  main{
+    font-size:75%;
+    background-color: beige;
+  }
+  
+  footer{
+    background-color:darkcyan;
+  }
+  
+  li{
+    display:block;
+    width:fit-content;
+  }
+  
+  h1{
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkblue;
+  }
+  
+  p{
+    line-height:normal;
+  }
